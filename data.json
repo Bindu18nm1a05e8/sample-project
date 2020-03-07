@@ -1,0 +1,31 @@
+{
+	"details":{
+		"image":"Chrysanthemum.jpg",
+		"name":"bindu",
+		"email":"sistubindu2001@gmail.com",
+		"number":"9963400899",
+		"address":"visakhapatnam"
+	},
+	"career":{
+		"info":"to become a softwareengineer"
+	},
+	"education":{
+		"institute":"view college",
+		"degree":"btech",
+		"percentage":"85%",
+		"passoutyear":"2018-2022"
+	},
+	{
+		"institute":"Narayana",
+		"dagree":"intermediate",
+		"percentage":"92%",
+		"passoutyear":"2018"
+	},
+	{
+		"institute":"Bhashyam",
+		"degree":"ssc",
+		"percentage":"95%",
+		"passoutyear":"2016"
+	}
+	}
+}
